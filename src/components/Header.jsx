@@ -14,7 +14,7 @@ export default function Header({ activeTab, setActiveTab, loanCount, overdueCoun
           <span className={styles.logoIcon}>📚</span>
           <div>
             <h1 className={styles.title}>동양대학교 도서관</h1>
-            <p className={styles.subtitle}>도서 대출 관리 시스템</p>
+            <p className={styles.subtitle}>도서 대출 관리 시스템 v1.0</p>
           </div>
         </div>
         {overdueCount > 0 && (

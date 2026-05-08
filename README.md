@@ -101,7 +101,7 @@ npm run preview
 
 > AWS S3 정적 웹 사이트 호스팅 URL (세션 4시간 유효)
 >
-> `http://mybucket-20190799.s3-website-us-east-1.amazonaws.com`
+> `http://mybucket-20263836.s3-website-us-east-1.amazonaws.com`
 
 ---
 
