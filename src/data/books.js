@@ -12,6 +12,7 @@ export const initialBooks = [
   { id: 11, title: '컴퓨터 구조와 원리', author: '김형균', category: '컴퓨터과학', isbn: '978-89-7914-655-8', total: 3 },
   { id: 12, title: '파이썬 완벽 가이드', author: '빌 루바노빅', category: '프로그래밍', isbn: '978-89-6626-221-9', total: 2 },
   { id: 13, title: '소프트웨어 공학', author: '남정현', category: '소프트웨어공학', isbn: '978-00-0000-000-0', total: 1 },
+  { id: 14, title: '알고리즘 트레이닝', author: '구종만', category: '컴퓨터과학', isbn: '978-89-7914-789-9', total: 4 },
 ];
 
 export const categories = ['전체', '프로그래밍', '컴퓨터과학', '데이터베이스', '네트워크', '소프트웨어공학'];
